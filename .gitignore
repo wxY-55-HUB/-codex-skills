@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+medical-research-skills/
+nature-skills-main/
+radiology-skills-src/
+*.zip
+.DS_Store
+Thumbs.db
+skills-backups/
